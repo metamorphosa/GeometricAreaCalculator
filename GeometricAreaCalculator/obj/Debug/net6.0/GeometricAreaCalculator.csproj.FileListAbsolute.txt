@@ -1,0 +1,12 @@
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\bin\Debug\net6.0\GeometricAreaCalculator.deps.json
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\bin\Debug\net6.0\GeometricAreaCalculator.dll
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\bin\Debug\net6.0\GeometricAreaCalculator.pdb
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\obj\Debug\net6.0\GeometricAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\obj\Debug\net6.0\GeometricAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\obj\Debug\net6.0\GeometricAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\obj\Debug\net6.0\GeometricAreaCalculator.AssemblyInfo.cs
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\obj\Debug\net6.0\GeometricAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\obj\Debug\net6.0\GeometricAreaCalculator.dll
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\obj\Debug\net6.0\refint\GeometricAreaCalculator.dll
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\obj\Debug\net6.0\GeometricAreaCalculator.pdb
+C:\Users\yonbi\source\repos\GeometricAreaCalculator\GeometricAreaCalculator\obj\Debug\net6.0\ref\GeometricAreaCalculator.dll
